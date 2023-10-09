@@ -1,0 +1,56 @@
+body {
+    background-color: azure;
+}
+
+.container {
+    background-color: rgb(125, 165, 175);
+    padding: 10px;
+    display: flex;
+    gap: 25%;
+}
+
+li {
+    list-style: none;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    display: block;
+    font-size: 4rem;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+}
+
+h2 {
+    font-size: 2rem;
+    font-family: 'Raleway', sans-serif;
+    padding-left: 8%;
+    padding-top: 3%;
+}
+
+p {
+    font-size: 1.25rem;
+    width: 800px;
+    padding-left: 8%;
+}
+
+.float {
+    padding-left: 8%;
+    float: left;
+}
+
+.padding {
+    padding-top: 10%;
+}
+
+.Description {
+    background-color: rgb(125, 165, 175);
+    padding-bottom: 3%;
+    width: 100vw;
+}
+
+div {
+    display: block;
+}
+

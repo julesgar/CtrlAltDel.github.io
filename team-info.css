@@ -1,0 +1,56 @@
+body {
+    background-color: azure;
+}
+
+.in-container {
+    list-style: none;
+    font-size: 20px;
+}
+
+.container {
+    background-color: rgb(125, 165, 175);
+    padding: 10px;
+    display: flex;
+    gap: 25%;
+}
+
+h1 {
+    text-align: center;
+    display: block;
+    font-size: 4rem;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+
+h2 {
+    padding-top: 5%;
+    font-size: 40px;
+    font-family: 'Raleway', sans-serif;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+}
+
+ul {
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+h4 {
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.member {
+    padding-top: 0%;
+}
+
+.div-one {
+    padding-left: 5%;
+    padding-bottom: 2%;
+    background-color: rgb(125, 165, 175);
+    margin: 1%;
+}
